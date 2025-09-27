@@ -46,6 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/YOkio/YOkio/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Yokiokks/Yokiokks/output/snake.svg" alt="Snake animation" />
 
 ###

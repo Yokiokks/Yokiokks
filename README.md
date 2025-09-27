@@ -10,7 +10,7 @@
 ###
 ###
 
-<img align="right" height="150" src="https://images-ext-1.discordapp.net/external/fFRWAWxAVdu3uBOQT7YGHbC68yHLOOAOr-u1mL-0rRM/https/media.tenor.com/XUgxw426ovUAAAAe/cat-paw-cat-i-don%2527t-care.png"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/b7/31/4d/b7314d5d391c4425d2856dddf7fc6d5b.jpg"  />
 
 ###
 ###

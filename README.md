@@ -1,5 +1,7 @@
-## Hi there 👋
+## 🇺🇸 Welcome to my perfil
+## 🇧🇷 Bem Vindo ao perfil
 
+## My name is Yokio
 
 I program as a hobby(someday professionally) in
 

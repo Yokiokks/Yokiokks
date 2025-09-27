@@ -22,5 +22,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Yokiokks/Yokiokks/output/snake.svg" alt="Snake animation" />
-
+<img width="12" />
 ###

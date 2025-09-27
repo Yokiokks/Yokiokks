@@ -5,5 +5,10 @@
 	
 ㅤ	
 ㅤ	
+
+
+
+
+	
 ## I program as a hobby(someday professionally) in
 ![What I program](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg)

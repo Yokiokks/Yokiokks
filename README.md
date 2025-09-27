@@ -4,6 +4,8 @@
 
 ###
 
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Yokiokks.Yokiokks&"  />
+
 ###
 
 <div align="left">

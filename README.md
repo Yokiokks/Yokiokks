@@ -17,11 +17,8 @@
 ###
 
 
-
-<img align="left" height="150" src="https://sb.kaleidousercontent.com/67418/1920x1100/15a1437b21/checkered-bg.png"  />
- __Eu Progamo por Hobby(futuramente trabalho) com:__
-
- 
+<img align="left" height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png"  />
+ Eu Progamo por Hobby(futuramente trabalho) com:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
 

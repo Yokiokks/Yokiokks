@@ -4,8 +4,6 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=YOkio.YOkio&"  />
-
 ###
 
 <div align="left">

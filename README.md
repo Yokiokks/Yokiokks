@@ -18,7 +18,7 @@
 
 
 
-<img align="left" height="150" src=""  />
+<img align="left" height="150" src="https://sb.kaleidousercontent.com/67418/1920x1100/15a1437b21/checkered-bg.png"  />
  __Eu Progamo por Hobby(futuramente trabalho) com:__
 
  

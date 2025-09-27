@@ -16,6 +16,9 @@
 ###
 ###
 
+
+
+<img align="left" height="150" src=""  />
  __Eu Progamo por Hobby(futuramente trabalho) com:__
 
  

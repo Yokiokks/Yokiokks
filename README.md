@@ -46,6 +46,6 @@
 
 ###
 
-![snake animation](https://github.com/<Yokiokks>/<Yokiokks>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/Yokiokks/Yokiokks/blob/output/github-contribution-grid-snake2.svg)
 
 ###

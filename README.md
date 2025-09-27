@@ -1,17 +1,17 @@
 ## 🇺🇸 Welcome to my perfil 🇧🇷 Bem Vindo ao perfil
-ㅤ
-ㅤ
+ㅤ-
+ㅤ-
 [![Just Yokio profile views](https://u8views.com/api/v1/github/profiles/189859182/views/day-week-month-total-count.svg)](https://u8views.com/github/Yokiokks)
-ㅤ
-ㅤ
+ㅤ-
+ㅤ-
 My name is Yokio
-
-ㅤ
-ㅤ
+-
+ㅤ-
+ㅤ-
 ## I program as a hobby(someday professionally) in
-ㅤ
+ㅤ-
 ![What I program](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg)
-ㅤ
+ㅤ-
 <!--
 **Yokiokks/Yokiokks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

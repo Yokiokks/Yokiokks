@@ -1,6 +1,7 @@
 <br clear="both">
 
-<h2 align="center">Bem vindo ao meu perfil</h2>
+<h2 align="center">🇧🇷/🇺🇸 Bem vindo ao meu perfil
+  / Welcome to my Profile</h2>
 
 ###
 
@@ -14,7 +15,7 @@
 
 ###
 
-<h3 align="left">Eu Progamo Por Hobby(Futuralmente Trabalho) com:</h3>
+<h3 align="left">🇧🇷/🇺🇸Eu Progamo Por Hobby(Futuralmente Trabalho) com: / I program as a hobby (in the future a job) With: </h3>
 
 ###
 
@@ -32,7 +33,7 @@
 
 ###
 
-<h4 align="left">Minhas Redes Sociais:</h4>
+<h4 align="left">🇧🇷/🇺🇸Minhas Redes Sociais: / My Social Medias:</h4>
 
 ###
 

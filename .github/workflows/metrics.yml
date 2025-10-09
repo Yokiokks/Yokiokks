@@ -1,7 +1,24 @@
-name: Half-year calendar
-  uses: lowlighter/metrics@latest
-  with:
-    filename: metrics.plugin.isocalendar.svg
-    token: ${{ secrets.TOKEN }}
-    base: ""
-    plugin_isocalendar: yes
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"      # executa diariamente (ajuste se quiser)
+  workflow_dispatch:         # permite disparar manualmente também
+
+permissions:
+  contents: write        # precisa escrever no repositório
+
+jobs:
+  generate-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0    # importante para pegar todo histórico de commits
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: isocalendar.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""                     # você pode deixar vazio se quiser só o plugin isocalendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year

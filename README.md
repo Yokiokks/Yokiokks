@@ -16,10 +16,6 @@
 
 ###
 
-<img align="right" height="158" src="https://media.tenor.com/t3dLLNaI50oAAAAe/cat-cats.png"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -44,7 +40,10 @@
 </div>
 
 ###
+<img align="right" height="250" src="https://wallpapers.com/images/hd/vagabond-push-4x0lxx2btcet5flb.jpg"  />
 
-
+<picture>
+  <img src="./isocalendar.svg" alt="Isometric commit calendar" />
+</picture>
 
 ###

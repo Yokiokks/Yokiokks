@@ -50,4 +50,7 @@
   <img src="./isocalendar.svg" alt="Isometric commit calendar" />
 </picture>
 
+<img src="./topics.svg" alt="Tópicos que sigo" />
+
+
 ###

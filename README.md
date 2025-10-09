@@ -40,7 +40,7 @@
 </div>
 
 ###
-<img align="right" height="250" src="https://wallpapers.com/images/hd/vagabond-push-4x0lxx2btcet5flb.jpg"  />
+<img align="right" height="230" src="https://wallpapers.com/images/hd/vagabond-push-4x0lxx2btcet5flb.jpg"  />
 
 <picture>
   <img src="./isocalendar.svg" alt="Isometric commit calendar" />

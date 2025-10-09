@@ -2,7 +2,11 @@
 
 ###
 
-<img align="center" height="300" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=77&fontColor=3e2a96&fontAlign=55&fontAlignY=50&rotate=5&stroke=bf1300&strokeWidth=2&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  /> 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=D4D4D4"  />
+</div>
+
+###
 
 ###
 

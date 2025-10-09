@@ -1,0 +1,27 @@
+name: Metrics with Topics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: topics.svg
+          token: ${{ secrets.METRICS_TOKEN }}    # pode não ser necessário só para topics
+          base: ""                                # se não quiser outras seções
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 10
+          plugin_topics_sort: stars

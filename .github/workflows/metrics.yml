@@ -1,11 +1,11 @@
 name: Metrics
 on:
   schedule:
-    - cron: "0 0 * * *"      # executa diariamente (ajuste se quiser)
-  workflow_dispatch:         # permite disparar manualmente também
+    - cron: "0 0 * * *"     
+  workflow_dispatch:         
 
 permissions:
-  contents: write        # precisa escrever no repositório
+  contents: write       
 
 jobs:
   generate-metrics:
@@ -13,12 +13,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 0    # importante para pegar todo histórico de commits
+          fetch-depth: 0
 
       - uses: lowlighter/metrics@latest
         with:
           filename: isocalendar.svg
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""                     # você pode deixar vazio se quiser só o plugin isocalendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year

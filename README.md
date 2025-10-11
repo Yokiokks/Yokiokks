@@ -10,12 +10,13 @@
 
 ###
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Yokiokks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yokiokks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  /> 
-
 <img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=31wepha5362o3qvzobnl2aldwlwy" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yokiokks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yokiokks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  /> 
+
+
 
 ###
 

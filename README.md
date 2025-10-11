@@ -10,15 +10,15 @@
 
 ###
 
-<img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=31wepha5362o3qvzobnl2aldwlwy" />
-
+###
+<img align="right" size="300" height="300" src="https://media1.tenor.com/m/o2pTY5JnfuUAAAAd/ratatoing-brazil.gif"  />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yokiokks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl" />
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yokiokks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  /> 
 
 
-
 ###
+###
+<img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=31wepha5362o3qvzobnl2aldwlwy" />
 
 <h3 align="left">🇧🇷/🇺🇸Eu Progamo Por Hobby(Futuralmente Trabalho) com: / I program as a hobby (in the future a job) With: </h3>
 

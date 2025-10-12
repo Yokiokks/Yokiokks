@@ -12,7 +12,7 @@
 
 
 ###
-<img align="right" size="300" height="300" src="https://github.com/user-attachments/assets/a419a8b9-0a81-46e1-8717-a7d3f0eb8a3d"  />
+<img align="right" size="200" height="200" src="https://github.com/user-attachments/assets/a419a8b9-0a81-46e1-8717-a7d3f0eb8a3d"  />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yokiokks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yokiokks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  /> 
 

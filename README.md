@@ -12,8 +12,8 @@
 
 ###
 <img align="right" size="220" height="220" src="https://github.com/user-attachments/assets/cb99e6a1-38dc-4d6c-b449-f5c5a3408b79"  />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Yokiokks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yokiokks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yokiokks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yokiokks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  /> 
 
 
 ###

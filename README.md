@@ -53,7 +53,7 @@
 <img align="right" height="230" src="https://wallpapers.com/images/hd/vagabond-push-4x0lxx2btcet5flb.jpg"  />
 
 <picture>
-  <img src="./isocalendar.svg" alt="Isometric commit calendar" />
+  <img src="./isocalendar.svg" alt="" />
 </picture>
 
 <img src="./topics.svg" alt="Tópicos que sigo" />

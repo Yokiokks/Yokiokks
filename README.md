@@ -35,17 +35,6 @@
 <h4 align="left">🇧🇷/🇺🇸Minhas Redes Sociais: / My Social Medias:</h4>
 
 ###
-
-<div align="center">
-  <a href="Yokiokks" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo" />
-  </a>
-  <a href="https://www.youtube.com/@Yokiokks" target="_blank">
-     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
-  </a>
-</div>
-
-###
 <img align="right" height="230" src="https://wallpapers.com/images/hd/vagabond-push-4x0lxx2btcet5flb.jpg"  />
 
 <picture>

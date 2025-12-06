@@ -16,7 +16,6 @@
 
 ###
 ###
-<img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=31wepha5362o3qvzobnl2aldwlwy" />
 
 <h3 align="left">🇧🇷/🇺🇸Eu Progamo Por Hobby(Futuralmente Trabalho) com: / I program as a hobby (in the future a job) With: </h3>
 

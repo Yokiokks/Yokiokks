@@ -31,7 +31,7 @@
 
 ###
 
-<h4 align="left">🇧🇷/🇺🇸Minhas Redes Sociais: / My Social Medias:</h4>
+
 
 ###
 <img align="right" height="230" src="https://wallpapers.com/images/hd/vagabond-push-4x0lxx2btcet5flb.jpg"  />
